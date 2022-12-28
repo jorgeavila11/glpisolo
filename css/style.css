@@ -1,0 +1,35 @@
+
+body {
+    background-color:#dddd ;
+    padding: 0;
+    margin: 0;
+    height: 50rem;
+}
+
+.imagem{    
+    display: flex;
+    justify-content: center;
+    
+}
+.imagem img{   
+    width: 100%;    
+}
+
+.container{
+    margin-top: 20px;
+}
+
+.row{
+    margin-top: 20px; 
+}
+
+.box-rodape{
+    position: absolute;
+    bottom: -4rem;
+    background-color: #fff;
+    color: #FFF;
+    width: 100%;
+    height: 100px;    
+    text-align: center;
+    line-height: 100px;
+}
